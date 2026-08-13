@@ -1,9 +1,8 @@
-version=1.0.7
+version=1.0.8
 url=https://raw.githubusercontent.com/ore941030-sudo/tissueserver/main/MapleLauncher.exe
 launcher_url=https://raw.githubusercontent.com/ore941030-sudo/tissueserver/main/MapleLauncher.exe
 skill_url=https://github.com/ore941030-sudo/tissueserver/releases/download/v1.0.5/Skill.zip
 string_url=https://github.com/ore941030-sudo/tissueserver/releases/download/v1.0.5/String.zip
 item_url=https://github.com/ore941030-sudo/tissueserver/releases/download/v1.0.5/Item.zip
 etc_url=https://github.com/ore941030-sudo/tissueserver/releases/download/v1.0.5/Etc.zip
-map_url=https://github.com/ore941030-sudo/tissueserver/releases/download/v1.0.5/Map.zip
 character_url=https://github.com/ore941030-sudo/tissueserver/releases/download/v1.0.5/Character.zip
