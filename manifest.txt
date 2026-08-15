@@ -1,4 +1,4 @@
-version=1.2.1
+version=1.2.2
 url=https://raw.githubusercontent.com/ore941030-sudo/tissueserver/main/MapleLauncher.exe
 launcher_url=https://raw.githubusercontent.com/ore941030-sudo/tissueserver/main/MapleLauncher.exe
 
