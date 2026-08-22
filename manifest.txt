@@ -1,0 +1,2 @@
+version=2.0.0
+launcher_url=https://raw.githubusercontent.com/ore941030-sudo/tissueserver/main/DuriLauncher.exe
