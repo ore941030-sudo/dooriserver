@@ -1,10 +1,10 @@
 version=2.0.2
 launcher_url=https://raw.githubusercontent.com/ore941030-sudo/tissueserver/main/DuriLauncher.exe
-skill_version=2
+skill_version=3
 skill_url=https://github.com/ore941030-sudo/tissueserver/releases/download/v2.0.1/Skill.zip
 sound_version=2
 sound_url=https://github.com/ore941030-sudo/tissueserver/releases/download/v2.0.1/Sound.zip
-string_version=2
+string_version=3
 string_url=https://github.com/ore941030-sudo/tissueserver/releases/download/v2.0.1/String.zip
 item_version=2
 item_url=https://github.com/ore941030-sudo/tissueserver/releases/download/v2.0.1/Item.zip
