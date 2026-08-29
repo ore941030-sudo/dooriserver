@@ -13,10 +13,10 @@ sound_version=2
 sound_url=https://github.com/ore941030-sudo/tissueserver/releases/download/v2.0.1/Sound.zip?duri_version=2
 sound_size=1073875212
 sound_sha256=EC2EC28519C0A3F07C451863A1857C52AF2C819E5217853CB446CB13017BE8B3
-string_version=7
-string_url=https://github.com/ore941030-sudo/tissueserver/releases/download/v2.0.1/String.zip?duri_version=7
-string_size=4408393
-string_sha256=1467DBC47D49D9AA4F72E54F9C7C17ED1D1DEF5B8AEAD70AC18BE829EBCF500E
+string_version=8
+string_url=https://github.com/ore941030-sudo/tissueserver/releases/download/v2.0.1/String.zip?duri_version=8
+string_size=4408449
+string_sha256=BCA398130332DC66900A88195D8A72AE6FE41E4EF59756119ECB92A0A8833D44
 item_version=2
 item_url=https://github.com/ore941030-sudo/tissueserver/releases/download/v2.0.1/Item.zip?duri_version=2
 item_size=369299301
@@ -42,4 +42,4 @@ manifest_key_id=duri-20260827-01
 client_patch_url=https://raw.githubusercontent.com/ore941030-sudo/tissueserver/main/DuriClientPatch.dll
 client_patch_size=306176
 client_patch_sha256=AA68C2E354E279DE953061C68C9E28E43D333A434303675A413FF9F8BADA4AE8
-manifest_signature=R+ih5Lf6e57WwNC1ITQz195YfE2pUBIWYXtiB62vGMvxmdNJk29abrUrGlWzofpQBOrG6HN5FDxJcIRvG3lACACQmaRJbBxyVk8HFlDfA3ibX1EW0OljergK7bGzBsz9fYtcKMDv703u/snBgChqxDoX5zLXVF4S+NwyCVVeBmYNWzsQFf9vBOwkjOaFNtgnQUxnVfWzkZPWjHweDzNrKOCx2UWTGnO3/fl+xocylmrO+TTvvxuh3Yik+4wJh5v0XDcaB5pTpma88M/KRVlcOMblyDHgvOxd5eJVjULHl0uG3b4i7ahy+piXkI2kQgXg3pCaYRg9FniUvQCqJ0D5Ag==
+manifest_signature=nBaPr1TzIiP7f9UUdDfH76E36lcEk2066S1nY+wFYRyCK9EKG5zSYSLzp4nhrRyx0uy83tfVn5UCZ+L+C+QWkf46asuG9NNxqO7ZwmXPHW2kOs0E/1ekf83YZIJqGudvgig3kXlR3uDxSNeEvtKREFJeYOncIiKH3p/JbtfGlZzNu+L7SPasV52Uv8AJ3iSfc9IN3rA2Ib8H9x+0L8uynLtGujOrt3TqG2OFLuWBVboU8KSQ6T4qGAcgZ6qwY8lJsc+mvtE4/Xe6/7ajHPVA8YOcn5rwye/XtxABNLEfP2mItc4/UbZ47fhhMIv9w4SzPx5gjZ3oScqbVI4IzBt4bQ==
