@@ -33,8 +33,8 @@ quest_version=2
 quest_url=https://github.com/ore941030-sudo/tissueserver/releases/download/v2.0.1/Quest.zip?duri_version=2
 quest_size=4318290
 quest_sha256=E1900D3C3A3B57EB77C8526C1D5CC47214EB2CE9FD9048B55B29C5D91E4EB3D3
-etc_version=2
-etc_url=https://github.com/ore941030-sudo/tissueserver/releases/download/v2.0.1/Etc.zip?duri_version=2
+etc_version=3
+etc_url=https://github.com/ore941030-sudo/tissueserver/releases/download/v2.0.1/Etc.zip?duri_version=3
 etc_size=11570715
 etc_sha256=E5237DF4E4279D91CC480F91F14081D1325759AD46E19055FFBE463713DA1FF7
 manifest_format=2
@@ -42,4 +42,4 @@ manifest_key_id=duri-20260827-01
 client_patch_url=https://raw.githubusercontent.com/ore941030-sudo/tissueserver/main/DuriClientPatch.dll
 client_patch_size=303104
 client_patch_sha256=5F18C4AA0AD2BCD6852A0985B9B2EB103C5519E0F62A1866A0264CCF8AB5F5BD
-manifest_signature=VdkufCrHjp81wHUiAeTPl/spTZIN0Wbn3fcchbfAd/49F0U8IJmxR3ul6jIEvDZjjQDqH1W3WkJx+QqHo+HRugq9o91uEUcAqlRwYV5Vf2xRmVVNc+Bbrg0RxXwMU0NrIKD1b8AY8RKeX+FoGoWLHzp5WbLX/7dtpw9EpNexAMc7VXNlj+QSMSWRf0FZnuoAkjlBtPmssxYrTUOMczw+lUW8coNQNQ8IveHn4iF8wEs82teaCTQfNN3MGqlOHth42WoMkhma6bq++H6oSPSm9WSSB38sN1fGJrqZS0e6hB/L+o6VqjNXciFI9r5b0OigT8/XdUnY/Ar+eY8fm7h+MA==
+manifest_signature=Mlcr8IrIJS652b2+XWgRMdK4fSy3f/EnSZA0Fw5Ez7MQRQoyUy2A2IxfUtyD2fIzJ7jTU7EmnhsU1LV8S+GrsQ+0i2X5DlMdZK8LSqc3wkt9eXgCn4JeoWzt1lVcRcorASe8wBhRKbzAHqVfa2aAuB8Ro6e+S4ZGUTbfW42uUP/dhcEN61hvagI8MON1Qb/PNbM0DzaHhtywYznIxC4qv0voMUFlWZg1E0bmF94FOBZL0itp2YCo/tNxfl0WstbeL86aDLuv3qKBod+NEGz+/AsClyib/Lr2+ElXSIkad8Fb7Ic7E0I0/Ew4o8SnYmi6G9OlD0s9UCtOlWHZOlZgrg==
